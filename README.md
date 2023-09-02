@@ -1,27 +1,27 @@
-# Langchain Course
+# Langchain, casos de uso para el servicios
 
-This repository contains course materials for learning the Langchain concepts. Below are the Jupyter notebooks used in the course with a brief description of each:
+El repositorio contiene paso a paso de conecptos de Langchain. Más abajo hay Jupyter notebooks que se usarán con una breve descripción de cada uno:
 
-- **models_basics.ipynb:** This notebook introduces the fundamental concepts of models in Langchain, detailing their structure and functionality.
+- **modelos_basicos.ipynb:** Primer paso, mostrando conceptos fundamentales de los modelos en Langchain.
 
-- **models_prompts_parsers.ipynb:** This notebook delves into the basics of models in Langchain, with a focus on prompts and parsers.
+- **models_prompts_parsers.ipynb:** Un intro a los prompts y parses de los modelos de Langchain.
 
-- **chains.ipynb:** This notebook introduces chains in Langchain, elucidating their function and importance in the structure of the language model. We learn about the different types of chain and their use.
+- **cadenas.ipynb:** Muestra un caso de de uso a las cadenas en Langchain, mostrando la importancia de las cadenas en las estructura de los Modelos de Lenguaje.
 
-- **memory.ipynb:** This notebook explores the memory aspects of Langchain, explaining how data is stored and retrieved.
+- **memoria.ipynb:** Agrega el concepto de memoria en Langchain, para almacenar y recuperar lo recordado.
 
-- **indexes.ipynb:** This notebook covers the concept of indexes in Langchain, focusing on their creation, usage, and maintenance.
+- **indices.ipynb:** Uso de indices en Langchain: creación, uso y mantenimiento.
 
-- **agents.ipynb:** This notebook explains the concept of agents in Langchain, covering how they interact and communicate within the system.
+- **agentes.ipynb:** Los agentes en Langchain, su uso como interactúan y se comunican conb el sistema.
 
-- **chatgpt_plugins.ipynb:** This notebook provides an overview of how to utilize plugins with ChatGPT in Langchain for enhanced functionality.
+- **chatgpt_plugins.ipynb:** Muestra el uso de plugins con ChatGPT en Langchain para potenciar funcionalidad.
 
-- **evaluation.ipynb:** This notebook discusses the methods and strategies for evaluating performance in Langchain.
+- **evaluacion.ipynb:** Argumentación sobre metodos y estratégias para evaluar el rendimiento de Langchain.
 
-- **functions.ipynb:** This notebook discusses the new 'Function Calling' functionality of OpenAI.
+- **funciones.ipynb:** Aborda la nueva 'Function Calling' functionalidad de OpenAI.
 
-- **open_source_chain.ipynb:** This notebook contains code with Langchain which uses a Falcon 7B Model.
+- **cadena_open_source.ipynb:** Muestra el códido con Langchaing usando Falcon 7B Model.
 
 - **doctran.ipynb** This notebook contains code that shows how to preprocess data with DocTran.
 
-_Note: The descriptions above are general and might not fully capture the content of each notebook. Please refer to the notebooks themselves for detailed information._
+_Nota: Esta descripción es genérica y puede que sea distinto a cada caso, cada notebook tiene una mejor descripción._
